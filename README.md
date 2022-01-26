@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mijujoel
+- 👀 I’m interested in complexity science and its applications to biological evolution, culture change, organizational dynamics.  
+- 🌱 I’m currently learning to use python and R for creating dashboards to accompaning agent-based and other forms of simulation.  Specifically Python/Dash and R/Shiny
